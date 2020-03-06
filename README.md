@@ -1,3 +1,3 @@
 # ATM Consulting
 
-Uma aplicação contruída em flutter para evidÊncia o básico da navegação.
+Uma aplicação contruída em flutter para evidência o básico da navegação.
